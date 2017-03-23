@@ -11,12 +11,12 @@ header-img: "img/consola.png"
 <blockquote>Se puede iniciar de varias formas</blockquote>
 <img src="{{ site.baseurl }}/img/apache-logo.png" alt="Apache server">
 
+<p>Para reiniciar Apache2 escribe en la terminal</p>
+
 ```bash
-~$ sudo service apache2 start
+~$ sudo service apache2 restart
 ```
 
-Primer termino
- : Primera definición
 
-<p>hola</p>
+
 
