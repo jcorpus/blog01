@@ -24,5 +24,5 @@ header-img: "img/consola.png"
 ~$ sudo service apache2 start
 ```
 
-
+<code class="highlighter-rouge">&lt;name_project&gt;/media</code>
 
