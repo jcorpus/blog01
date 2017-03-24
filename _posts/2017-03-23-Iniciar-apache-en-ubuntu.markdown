@@ -6,7 +6,6 @@ subtitle:   "Iniciar Apache en Ubuntu"
 date:       2017-03-23 12:00:00
 author:     "jcorpus"
 header-img: "img/consola.png"
-categories: jekyll disqus
 ---
 
 <h2 class="section-heading">Comandos para iniciar Apache en Ubuntu</h2>
