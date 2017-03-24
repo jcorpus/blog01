@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Iniciar servicio Apache en Ubuntu."
 comments:   true
+title:      "Iniciar servicio Apache en Ubuntu."
 subtitle:   "Iniciar Apache en Ubuntu"
 date:       2017-03-23 12:00:00
 author:     "jcorpus"
