@@ -9,6 +9,10 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ page.title }}" />
     {% else %}
+	<meta property="og:img" content="{% if page.header-img %}{{ page.header-img }}">
+	
+	
+	
     
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
