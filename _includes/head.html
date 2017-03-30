@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
 
-
+	{% if page.image %}
+	  <meta content="/img/{{ page.image }}" property="og:image">
+	{% else %}
+	  <meta content="/img/about-bg.jpg" property="og:image">
+	{% endif %}
 	<meta property="og:img" content="{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}">
 	
 	
