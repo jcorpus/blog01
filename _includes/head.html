@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
     
-    <meta content="Blog personal de noticias y más" property="og:title">
-    <meta content="Type" property="og:type">
-    <meta content="img-header" property="og:image">
-    <meta content="https://jcorpus.github.io/" property="og:url">
+    {% if page.title %}
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ page.title }}" />
+    {% else %}
     
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
