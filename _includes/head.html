@@ -23,6 +23,9 @@
 	{% else %}
 	<meta content="{{ site.baseurl }}/{{ site.header-img }}" property="og:image">
 	{% endif %}
+	{% if page.url %}
+	  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{% endif %}
 	
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
