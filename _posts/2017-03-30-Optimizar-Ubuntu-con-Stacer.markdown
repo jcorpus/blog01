@@ -23,9 +23,10 @@ Stacer es un monitor de recursos del sistema, el cual permite monitorizar tu sis
  
  <p>Puedes descargado desde aquí</p>
  <div class="button">
-   <a href="https://github.com/oguzhaninan/Stacer/releases" target="_blank">Descargar</a>
+   <a href="https://github.com/oguzhaninan/Stacer/releases" target="_blank">Descargar
   <span>
     <span></span>
   </span>
+  </a>
 </div>
  
