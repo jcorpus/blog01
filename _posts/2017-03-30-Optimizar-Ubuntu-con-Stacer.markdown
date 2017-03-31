@@ -2,7 +2,7 @@
 layout:     post
 title:      "Optimizar Ubuntu con Stacer"
 subtitle:   "Monitor de sistema y más."
-date:       2017-30-03 21:20:00
+date:       2017-3-30 21:20:00
 author:     "jcorpus"
 header-img: "img/stacer-post.png"
 ---
