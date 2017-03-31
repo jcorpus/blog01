@@ -23,7 +23,7 @@ Stacer es un monitor de recursos del sistema, el cual permite monitorizar tu sis
  
  <p>Puedes descargado desde aquí</p>
  <div class="button">
-  Download it!
+   Descargar
   <span>
     <span></span>
   </span>
