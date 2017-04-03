@@ -7,7 +7,7 @@ author:     "jcorpus"
 header-img: "img/stacer-post.png"
 ---
 
-<h2 class="section-heading">Monitor de Sistema - Stracer</h2>
+<h2 class="section-heading">Monitor de Sistema - Stacer</h2>
 
 <p>Para los que esten familiarizados con el Ccleaner en Windows. Una alternativa para el monitor del sistema y limpieza del cache, 
 llega Stacer una aplicacion muy agradable en Ubuntu.
