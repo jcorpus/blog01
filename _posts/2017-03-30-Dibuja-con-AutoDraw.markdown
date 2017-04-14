@@ -12,4 +12,4 @@ header-img: "img/autodraw.png"
 para ayudarte a dibujar rapido</p>
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AutoDraw_1.gif" alt="" />
-<p>Puedes encontraro en el siguiente enlace → https://goo.gl/2wvl15</p>
+<p>Puedes encontraro en el siguiente enlace → <a href="https://goo.gl/2wvl15" target="_blank">https://goo.gl/2wvl15</a></p>
