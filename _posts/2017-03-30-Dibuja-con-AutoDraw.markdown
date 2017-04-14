@@ -11,4 +11,5 @@ header-img: "img/autodraw.png"
 <p style="text-align:justify;">Dibujar en la computadora ahora es mas fácil, realiza bocetos y crea en poco tiempo con AutoDraw, una nueva herramienta que usa MachineLearning
 para ayudarte a dibujar rapido</p> → https://goo.gl/2wvl15
 
-<img scr="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AutoDraw_1.gif" />
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AutoDraw_1.gif" alt="" />
+<p>h</p>
