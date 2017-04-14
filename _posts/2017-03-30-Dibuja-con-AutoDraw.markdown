@@ -4,7 +4,7 @@ title:      "Dibujando con AutoDraw"
 subtitle:   "Dibujando con AutoDraw una nueva herramienta que usa MachineLearning."
 date:       2017-4-13 22:03:00
 author:     "jcorpus"
-header-img: "img/autodraw_post.png"
+header-img: "img/autodraw.png"
 ---
 
 <h2 class="section-heading">Dibujando con AutoDraw con MachineLearning</h2>
