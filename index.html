@@ -14,7 +14,7 @@ description: "Blog personal de noticias y más."
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} <a href="https://jcorpus.github.io{{ post.url }}#disqus_thread">0 Comentarios</a></p>
+    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} <a href="https://jcorpus.github.io{{ post.url }}#disqus_thread">0 Comentarios</a></p>
 </div>
 <hr>
 {% endfor %}
