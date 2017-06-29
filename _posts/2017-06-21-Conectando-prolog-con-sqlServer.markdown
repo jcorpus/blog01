@@ -23,21 +23,17 @@ header-img: "img/swiprolog.png"
  <h4>Seleccionamos autentificacion de Windows</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/autentificacion de windows.PNG" alt="Post Sample Image">
  <h4>Seleccionamos la base de datos creada</h4>
- <img src="{{ site.baseurl }}/img/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
- <h4>Establecemos el idioma</h4>
- <img src="{{ site.baseurl }}/img/prolog-sql/establecemos el idioma.PNG" alt="Post Sample Image">
- <h4>Seleccionamos la base de datos creada</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
- 
- <h4>Probamos el origen de datos</h4>
- <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
- 
+ <h4>Establecemos el idioma</h4>
+ <img src="{{ site.baseurl }}/img/prolog-sql/establecemos el idioma.PNG" alt="Post Sample Image"> 
   <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente.</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
  <br>
+ <h4>Conexión establecida.</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/conexion establecida.PNG" alt="Post Sample Image">
  
+ <h2 class="section-heading">Ahora comenzaremos con Prolog</h2>
+ <p>Para este tutorial trabajaré con SwiProlog, la instalación es sencilla, puedes descargarlo desde aquí <a href="http://www.swi-prolog.org/Download.html"  target="_blank"></a></p>
+ <p></p>
  
- 
- 
-<p>Puedes encontraro en el siguiente enlace → <a href="https://www.autodraw.com/" target="_blank">AutoDraw</a></p>
+
