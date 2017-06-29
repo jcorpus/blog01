@@ -33,7 +33,7 @@ header-img: "img/swiprolog.png"
  <img src="{{ site.baseurl }}/img/prolog-sql/conexion establecida.PNG" alt="Post Sample Image">
  
  <h2 class="section-heading">Ahora comenzaremos con Prolog</h2>
- <p>Para este tutorial trabajaré con SwiProlog, la instalación es sencilla, puedes descargarlo desde aquí <a href="http://www.swi-prolog.org/Download.html"  target="_blank"></a></p>
+ <p>Para este tutorial trabajaré con SwiProlog, la instalación es sencilla, puedes descargarlo desde <a href="http://www.swi-prolog.org/Download.html"  target="_blank">Aquí</a></p>
  <p></p>
  
 
