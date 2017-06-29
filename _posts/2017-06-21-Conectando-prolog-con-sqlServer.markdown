@@ -18,6 +18,26 @@ header-img: "img/swiprolog.png"
   <img src="{{ site.baseurl }}/img/prolog-sql/nuevo origen de datos.PNG" alt="Post Sample Image">
   <h4>Seleccionamos SQL native client</h4>
   <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos sql native.PNG" alt="Post Sample Image">
- <h4>Seleccionamos SQL native client</h4>
+ <h4>Colocamos el nombre a nuestra conexion y en servidor colocamos un punto "."</h4>
+ <img src="{{ site.baseurl }}/img/prolog-sql/colocamos el nombre a nuestra conexion y un servidor.PNG" alt="Post Sample Image">
+ <h4>Seleccionamos autentificacion de Windows</h4>
+ <img src="{{ site.baseurl }}/img/prolog-sql/autentificacion de windows.PNG" alt="Post Sample Image">
+ <h4>Seleccionamos la base de datos creada</h4>
+ <img src="{{ site.baseurl }}/img/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
+ <h4>Establecemos el idioma</h4>
+ <img src="{{ site.baseurl }}/img/prolog-sql/establecemos el idioma.PNG" alt="Post Sample Image">
+ <h4>Seleccionamos la base de datos creada</h4>
+ <img src="{{ site.baseurl }}/img/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
+ 
+ <h4>Probamos el origen de datos</h4>
+ <img src="{{ site.baseurl }}/img/probamos el origen de datos.PNG" alt="Post Sample Image">
+ 
+  <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente.</h4>
+ <img src="{{ site.baseurl }}/img/probamos el origen de datos.PNG" alt="Post Sample Image">
+ <br>
+ <img src="{{ site.baseurl }}/img/conexion establecida.PNG" alt="Post Sample Image">
+ 
+ 
+ 
  
 <p>Puedes encontraro en el siguiente enlace → <a href="https://www.autodraw.com/" target="_blank">AutoDraw</a></p>
