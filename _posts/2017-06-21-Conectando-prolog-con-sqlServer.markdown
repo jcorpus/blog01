@@ -27,15 +27,15 @@ header-img: "img/swiprolog.png"
  <h4>Establecemos el idioma</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/establecemos el idioma.PNG" alt="Post Sample Image">
  <h4>Seleccionamos la base de datos creada</h4>
- <img src="{{ site.baseurl }}/img/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
  
  <h4>Probamos el origen de datos</h4>
  <img src="{{ site.baseurl }}/img/probamos el origen de datos.PNG" alt="Post Sample Image">
  
   <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente.</h4>
- <img src="{{ site.baseurl }}/img/probamos el origen de datos.PNG" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
  <br>
- <img src="{{ site.baseurl }}/img/conexion establecida.PNG" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/prolog-sql/conexion establecida.PNG" alt="Post Sample Image">
  
  
  
