@@ -12,6 +12,12 @@ header-img: "img/swiprolog.png"
 
 <img src="{{ site.baseurl }}/img/prolog-sql/tabla.PNG" alt="Post Sample Image">
 <br>
+<h4>Nos dirigimos a herramientas administrativas, luego a origen de datos ODBC</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/herramientas administrativas.PNG" alt="Post Sample Image">
+ <h4>Nos dirigimos a herramientas administrativas, luego a origen de datos ODBC y agregamos uno nuevo</h4>
+  <img src="{{ site.baseurl }}/img/prolog-sql/nuevo origen de datos.PNG" alt="Post Sample Image">
+  <h4>Seleccionamos SQL native client</h4>
+  <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos sql native.PNG" alt="Post Sample Image">
+ <h4>Seleccionamos SQL native client</h4>
  
 <p>Puedes encontraro en el siguiente enlace → <a href="https://www.autodraw.com/" target="_blank">AutoDraw</a></p>
