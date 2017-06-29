@@ -30,7 +30,7 @@ header-img: "img/swiprolog.png"
  <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
  
  <h4>Probamos el origen de datos</h4>
- <img src="{{ site.baseurl }}/img/probamos el origen de datos.PNG" alt="Post Sample Image">
+ <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
  
   <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente.</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
