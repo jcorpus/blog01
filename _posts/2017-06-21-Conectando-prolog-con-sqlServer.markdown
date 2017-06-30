@@ -13,6 +13,26 @@ header-img: "img/swiprolog.png"
 <img src="{{ site.baseurl }}/img/prolog-sql/tabla.PNG" alt="Post Sample Image">
 <br>
 <h4>Llenamos la tabla con los siguientes datos.</h4>
+```sql
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','si','si','si',220);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','si','no','si',220);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','no','si','si',25);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','no','no','si',25);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','si','si','si',95);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','si','no','si',95);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','no','si','si',10);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','no','no','si',10);
+
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','si','si','no',4);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','si','no','no',9);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','no','si','no',5);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('si','no','no','no',12);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','si','si','no',31);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','si','no','no',76);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','no','si','no',50);
+insert into resumen (dolor,ppeso,vomito,enfermedad,cantidad)values('no','no','no','no',113);
+```
+
 <img src="{{ site.baseurl }}/img/prolog-sql/insertando.PNG" alt="tabla resumen">
 <img src="{{ site.baseurl }}/img/prolog-sql/resumen.PNG" alt="datos de la tabla">
 <br>
@@ -120,6 +140,6 @@ inferencia(D,Pp,V):- conexion,
  
  
  ```
-<p>Optenemos el siguiente resultado.</p>
+<p>Compilamos y llamamos al predicado sistema, optenemos el siguiente resultado.</p>
 <img src="{{ site.baseurl }}/img/prolog-sql/resultado2.PNG" alt="Post Sample Image">
 
