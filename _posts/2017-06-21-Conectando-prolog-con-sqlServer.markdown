@@ -142,4 +142,4 @@ inferencia(D,Pp,V):- conexion,
  ```
 <p>Compilamos y llamamos al predicado sistema, seleccionamos los sintomas y la probabilidad bayesiana de tener la enfermedad, con el siguiente resultado.</p>
 <img src="{{ site.baseurl }}/img/prolog-sql/resultado2.PNG" alt="Post Sample Image">
-
+<p>El codigo fuente de prolog lo puedes descargar desde <a href="https://github.com/jcorpus/USP/tree/master/USP9/Inteligencia_artificial/prolog">Aquí</a><p>
