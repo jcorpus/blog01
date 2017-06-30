@@ -8,10 +8,15 @@ header-img: "img/swiprolog.png"
 ---
 
 <h2 class="section-heading">Conectando Prolog con Sql Server</h2>
-<p style="text-align:justify;">En este post les enseñare a conectar Prolog con SQLServer en la plataforma windows. Primero empezaremos creando la base de datos en sql server, creamos la base de datos con el nombre "hostpital" y con una tabla resumen </p>
-
+<p style="text-align:justify;">En este post les enseñare a conectar Prolog con SQLServer en la plataforma windows. Primero empezaremos creando la base de datos en sql server, creamos la base de datos con el nombre "hospital" y con una tabla resumen </p>
+<h4>Creamos la tabla resumen con los siguientes campos.</h4>
 <img src="{{ site.baseurl }}/img/prolog-sql/tabla.PNG" alt="Post Sample Image">
 <br>
+<h4>Llenamos la tabla con los siguientes datos.</h4>
+<img src="{{ site.baseurl }}/img/prolog-sql/insertando.PNG" alt="tabla resumen">
+<img src="{{ site.baseurl }}/img/prolog-sql/resumen.PNG" alt="datos de la tabla">
+<br>
+<h2>Ahora crearemos un nuevo origen de Datos llamado "NuevaConexion".</h2>
 <h4>Nos dirigimos a herramientas administrativas, luego a origen de datos ODBC</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/herramientas administrativas.PNG" alt="Post Sample Image">
  <h4>Nos dirigimos a herramientas administrativas, luego a origen de datos ODBC y agregamos uno nuevo</h4>
@@ -26,7 +31,7 @@ header-img: "img/swiprolog.png"
  <img src="{{ site.baseurl }}/img/prolog-sql/seleccionamos la base de datos creada.PNG" alt="Post Sample Image">
  <h4>Establecemos el idioma</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/establecemos el idioma.PNG" alt="Post Sample Image"> 
-  <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente.</h4>
+  <h4>Probamos el origen de datos y verificamos que la prueba se completo correctamente y aceptamos.</h4>
  <img src="{{ site.baseurl }}/img/prolog-sql/probamos el origen de datos.PNG" alt="Post Sample Image">
  <br>
  <h4>Conexión establecida.</h4>
@@ -34,6 +39,38 @@ header-img: "img/swiprolog.png"
  
  <h2 class="section-heading">Ahora comenzaremos con Prolog</h2>
  <p>Para este tutorial trabajaré con SwiProlog, la instalación es sencilla, puedes descargarlo desde <a href="http://www.swi-prolog.org/Download.html"  target="_blank">Aquí</a></p>
- <p></p>
+ <p>Comenzaremos escribiendo el siguiente codigo prolog.</p>
+ ```prolog
+ conexion:- odbc_connect('NuevaConexion',_,[user('root'),password(''),alias(bd),open(once)]),
+           odbc_prepare(bd,'SELECT cantidad FROM resumen where enfermedad =? and dolor=? and vomito=? and ppeso=?',
+           [atom>char(2),atom>char(2),atom>char(2),atom>char(2)],
+           Handle,
+           [types([integer])]),
+           abolish(odbc_handle/1),
+           assert(odbc_handle(Handle)).
+
+
+
+run_stmt(R,E,D,V,Pp):- odbc_handle(Handle),
+              odbc_execute(Handle,[E,D,V,Pp],row(R)).
+
+
+sistema:- conexion,
+           writeln('Dolor:'),
+           read(D),
+           writeln('Vomito:'),
+           read(V),
+           writeln('Perdida de peso:'),
+           read(Pp),
+           run_stmt(R1,si,D,V,Pp),
+           run_stmt(R2,no,D,V,Pp),
+           Bayes is R1/(R1+R2),
+           format('La probabilidad bayesiana de tener la enfermedad es ~w',[Bayes]).
+
+
+ 
+ ```
+ 
+ 
  
 
