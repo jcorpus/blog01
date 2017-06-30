@@ -94,7 +94,7 @@ sistema:- conexion,
  <img src="{{ site.baseurl }}/img/prolog-sql/resultado1.PNG" alt="Post Sample Image">
  
  
- <h4>Ahora realizarenos el mismo ejercicio usando la interfaz de Prolog.</h4>
+ <h4>Ahora realizarenos el mismo ejercicio usando el modo gráfico de Prolog.</h4>
  ```prolog
  conexion:- odbc_connect('NuevaConexion',_,[user('root'),password(''),alias(bd),open(once)]),
            odbc_prepare(bd,'SELECT cantidad from resumen where enfermedad=? and dolor=? and vomito=? and ppeso=?',
