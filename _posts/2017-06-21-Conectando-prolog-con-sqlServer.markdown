@@ -4,7 +4,7 @@ title:      "Conectando Prolog con Sql Server"
 subtitle:   "Prolog con base de datos sql Server."
 date:       2017-06-21 17:16:00
 author:     "jcorpus"
-header-img: "img/prolog-sql/prolog page.png"
+header-img: "img/prolog-sql/prolog-page.png"
 ---
 
 <h2 class="section-heading">Conectando Prolog con Sql Server</h2>
