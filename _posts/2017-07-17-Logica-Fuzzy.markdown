@@ -17,6 +17,8 @@ Como disciplina teórica matemática, la lógica fuzzy está diseñada para reac
 diferencia con la lógica Booleana por no estar restringida a dos únicos valores de 0 y 1. En su lugar permite valores parciales y multivalores
 de verdad. Se puede afirmar, tal como lo demostró Bart Kosko, que la lógica Booleana es un caso especial de la lógica Fuzzy.
 </p>
+<img src="{{ site.baseurl }}/img/prolog-sql/logica-fuzzy.gif" alt="imagen fuzzy">
+
 
 
 
