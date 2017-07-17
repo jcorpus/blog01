@@ -4,7 +4,7 @@ title:      "Intenigencia Artificial Lógica Fuzzy "
 subtitle:   "Lógica Fuzzy."
 date:       2017-07-17 15:50:00
 author:     "jcorpus"
-header-img: "img/prolog-sql/inteligencia_artificial_p.png"
+header-img: "img/prolog-sql/inteligencia_artificial_p.jpg"
 ---
 
 <h2 class="section-heading">Inteligencia Artificial Logica Fuzzy</h2>
