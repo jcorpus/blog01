@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Intenigencia Artificial Lógica Fuzzy "
-subtitle:   "Prolog con base de datos sql Server."
+subtitle:   "Lógica Fuzzy."
 date:       2017-07-17 15:50:00
 author:     "jcorpus"
 header-img: "img/prolog-sql/inteligencia_artificial_p.png"
