@@ -11,7 +11,7 @@ header-img: "img/prolog-sql/inteligencia_artificial_p.jpg"
 <p style="text-align:justify;">La lógica Booleana es conocida como la más precisa de todas las ciencias y disciplina teóricas. La mayoría de las ciencias modernas
 y matemáticas se basan en sus principios. La lógica boleana tiene la desventaja de no poder reproducir los patrones del pensamiento humano.
 </p>
-<p style="text-align:justify;">Es así como a medidados de los años sesenta, el profesor Lotfi Zadeth de la universidad de California en Berkeley, pretendiendo suplir esta deficiencia de la
+<p style="text-align:justify;">Es así como a mediados de los años sesenta, el profesor Lotfi Zadeth de la universidad de California en Berkeley, pretendiendo suplir esta deficiencia de la
 lógica tradicional, crea la que hoy se denomina como lógica Fuzzy.
 Como disciplina teórica matemática, la lógica fuzzy está diseñada para reaccionar a cambios continuos de la variable a ser controlada y se
 diferencia con la lógica Booleana por no estar restringida a dos únicos valores de 0 y 1. En su lugar permite valores parciales y multivalores
