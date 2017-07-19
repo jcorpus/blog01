@@ -25,9 +25,9 @@ de verdad. Se puede afirmar, tal como lo demostró Bart Kosko, que la lógica Bo
 <h2>Tipos de Incerteza</h2>
 <p>Muchas disciplinas matemáticas tratan con la descripcion de incerteza, tales como la teoria de la probabilidad, la teoria de
 la información y la teoría del conjunto fuzzy. Es más conveniente clasificarlos por el tipo de incerteza que tratan.</p>
-<h3>Incerteza Estocástica<h3>
+<h3>Incerteza Estocástica</h3>
 <p>Trata con la incerteza hacia la ocurrencia de un cierto evento. El siguiente es un ejemplo de este caso.</p>
-<p>La probabilidad de dar en el blanco es 0.8</p>
+<p style="font-weight:bold">La probabilidad de dar en el blanco es 0.8</p>
 <p>El evento en sí mismo, dar en el blanco, está bien definido. La incerteza surge como consecuencia de que sí el blanco será o no alcanzado. Esta incerteza es cuantificado por un grado de probabilidad. En el caso que se analiza, la probabilidad </p>
 
 
