@@ -92,5 +92,7 @@ difuso resultante correspondiente a la temperatura</li>
 <li>¿Cuál será el valor de temperatura aplicado al horno si se utiliza la técnica del primer valor máximo para obtener
 valores nítidos?</li>
 </ol>
+<p>Resultado</p>
+<img style="  display: block;margin-left: auto;margin-right: auto " src="{{ site.baseurl }}/img/fuzzy/galletas_fuzzy.png" alt="imagen fuzzy">
 
-
+<img style="  display: block;margin-left: auto;margin-right: auto " src="{{ site.baseurl }}/img/fuzzy/galletas_resuelto.png" alt="imagen fuzzy">
