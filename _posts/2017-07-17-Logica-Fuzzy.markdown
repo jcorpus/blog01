@@ -41,12 +41,6 @@ c. Si las galletas están doraditas, entonces la temperatura del horno debe ser 
 <p>Tras diversas entrevistas con la abuela se han podido establecer los siguientes conjuntos difusos sobre un índice
 cromático especial (0 = galleta cruda; 10 = galleta chamuscada) y la temperatura del horno:</p>
 
-Indice | valores 
---- | --- 
-*un poco crudas* | (0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)
-*medio hechas* | (0/3, 1/5, 1/6, 0/8) 
-*doraditas* | (0/5, 1/7, 1/8, 0/9) 
-<br>
 <table style="width:100%">
   <tr>
     <th>Indice</th>
@@ -54,23 +48,37 @@ Indice | valores
   </tr>
   <tr>
     <td>Un poco crudas</td>
-    <td>medio hechas </td> 
-    <td>doraditas </td>
+    <td>(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7) </td> 
   </tr>
-    <tr>
-    <td>(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)</td>
-    <td>(0/3, 1/5, 1/6, 0/8) </td> 
+  <tr>
+   <td>doraditas </td>
+   <td>(0/3, 1/5, 1/6, 0/8) </td> 
+  </tr>
+  <tr>
+    <td>medio hechas</td>
     <td>(0/5, 1/7, 1/8, 0/9) </td>
   </tr>
 </table>
 <br>
 
-
-Temperatura del horno | valores 
---- | --- 
-*baja* | (0/150, 1/160, 1/180, 0/190) 
-*media* | (0/170, 1/190, 1/210, 0/230) 
-*alta* | (0/210, 1/220, 1/240, 0/250) 
+<table style="width:100%">
+  <tr>
+    <th>Temperatura del horno</th>
+    <th>valores</th>
+  </tr>
+  <tr>
+    <td>Baja</td>
+    <td>(0/150, 1/160, 1/180, 0/190)  </td> 
+  </tr>
+  <tr>
+   <td>media </td>
+   <td>(0/170, 1/190, 1/210, 0/230) </td> 
+  </tr>
+  <tr>
+    <td>alta</td>
+    <td>(0/210, 1/220, 1/240, 0/250) </td>
+  </tr>
+</table>
 <p>Supóngase que se interpretan las reglas a,b,c anteriores como implicaciones de Mamdani y se construye un sistema para
 control automático de la temperatura del horno basado en reglas con encadenamiento hacia delante. Suponiendo que en
 cierto momento el índice cromático de las galletas es 6, se pide: </p>
