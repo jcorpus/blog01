@@ -16,11 +16,11 @@ funciones de control de electrodomenticos.
 
 <img style="  display: block;margin-left: auto;margin-right: auto " src="{{ site.baseurl }}/img/redes_neuronales/redes_nuronales.jpg" alt="neuronas">
 
-<p>Redes Neuronales Artificiales (RNA), las cuales emulan las redes neuronales biológicas, y que se
+<p style="text-align:justify;">Redes Neuronales Artificiales (RNA), las cuales emulan las redes neuronales biológicas, y que se
 han utilizado para aprender estrategias de solución basadas en ejemplos de comportamiento típico
 de patrones; estos sistemas no requieren que la tarea a ejecutar se programe, ellos generalizan y
 aprenden de la experiencia</p>
-<p>Las RNA no ejecutan instrucciones, responden en paralelo a las entradas que se les presenta. El
+<p style="text-align:justify;">Las RNA no ejecutan instrucciones, responden en paralelo a las entradas que se les presenta. El
 resultado no se almacena en una posición de memoria, este es el estado de la red para el cual se
 logra equilibrio. El conocimiento de una red neuronal no se almacena en instrucciones, el poder de
 la red está en su topología y en los valores de las conexiones (pesos) entre neuronas</p>
