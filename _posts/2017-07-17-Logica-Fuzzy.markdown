@@ -35,9 +35,12 @@ secreto de la receta consiste en hornearlas cuidadosamente hasta que toman su ca
 delicado proceso la abuela María observa periódicamente las galletas y ajusta la temperatura del horno de forma
 adecuada:<p/>
 <p>
-a. Si las galletas están un poco crudas, entonces la temperatura del horno debe ser media.
-b. Si las galletas están medio hechas, entonces la temperatura del horno debe ser alta.
-c. Si las galletas están doraditas, entonces la temperatura del horno debe ser baja. </p>
+<ol type="a">
+  <li>Si las galletas están un poco crudas, entonces la temperatura del horno debe ser media.</li>
+  <li>Si las galletas están medio hechas, entonces la temperatura del horno debe ser alta.</li>
+  <li>Si las galletas están doraditas, entonces la temperatura del horno debe ser baja.</li>
+</ol>
+</p>
 <p>Tras diversas entrevistas con la abuela se han podido establecer los siguientes conjuntos difusos sobre un índice
 cromático especial (0 = galleta cruda; 10 = galleta chamuscada) y la temperatura del horno:</p>
 
@@ -83,10 +86,11 @@ cromático especial (0 = galleta cruda; 10 = galleta chamuscada) y la temperatur
 control automático de la temperatura del horno basado en reglas con encadenamiento hacia delante. Suponiendo que en
 cierto momento el índice cromático de las galletas es 6, se pide: </p>
 
-a. Trazar gráficamente la ejecución del sistema, mostrando el resultado producido por cada regla y el conjunto
-difuso resultante correspondiente a la temperatura
-b.  ¿Cuál será el valor de temperatura aplicado al horno si se utiliza la técnica del primer valor máximo para obtener
-valores nítidos?
-
+<ol type="a">
+  <li>Trazar gráficamente la ejecución del sistema, mostrando el resultado producido por cada regla y el conjunto
+difuso resultante correspondiente a la temperatura</li>
+<li>¿Cuál será el valor de temperatura aplicado al horno si se utiliza la técnica del primer valor máximo para obtener
+valores nítidos?</li>
+</ol>
 
 
