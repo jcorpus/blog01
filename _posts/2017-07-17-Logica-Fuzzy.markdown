@@ -46,6 +46,20 @@ Indice | valores
 *un poco crudas* | (0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)
 *medio hechas* | (0/3, 1/5, 1/6, 0/8) 
 *doraditas* | (0/5, 1/7, 1/8, 0/9) 
+<br>
+<table style="width:100%">
+  <tr>
+    <th>Indice</th>
+    <th>Valores</th>
+  </tr>
+  <tr>
+    <td>(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)</td>
+    <td>(0/3, 1/5, 1/6, 0/8) </td> 
+    <td>(0/5, 1/7, 1/8, 0/9) </td>
+  </tr>>
+</table>
+<br>
+
 
 Temperatura del horno | valores 
 --- | --- 
