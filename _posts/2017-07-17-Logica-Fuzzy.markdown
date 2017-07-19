@@ -53,10 +53,15 @@ Indice | valores
     <th>Valores</th>
   </tr>
   <tr>
+    <td>Un poco crudas</td>
+    <td>medio hechas </td> 
+    <td>doraditas </td>
+  </tr>
+    <tr>
     <td>(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)</td>
     <td>(0/3, 1/5, 1/6, 0/8) </td> 
     <td>(0/5, 1/7, 1/8, 0/9) </td>
-  </tr>>
+  </tr>
 </table>
 <br>
 
