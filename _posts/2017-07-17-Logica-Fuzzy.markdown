@@ -29,6 +29,23 @@ la información y la teoría del conjunto fuzzy. Es más conveniente clasificarl
 <p>Trata con la incerteza hacia la ocurrencia de un cierto evento. El siguiente es un ejemplo de este caso.</p>
 <p style="font-weight:bold">La probabilidad de dar en el blanco es 0.8</p>
 <p>El evento en sí mismo, dar en el blanco, está bien definido. La incerteza surge como consecuencia de que sí el blanco será o no alcanzado. Esta incerteza es cuantificado por un grado de probabilidad. En el caso que se analiza, la probabilidad </p>
+<h3>Ahora veremos un ejemplo con el programa xfuzzy</h3>
+<p>La abuela María prepara sus deliciosas galletas caseras de forma artesanal desde hace más de 40 años. El toque
+secreto de la receta consiste en hornearlas cuidadosamente hasta que toman su característico color dorado. Durante este
+delicado proceso la abuela María observa periódicamente las galletas y ajusta la temperatura del horno de forma
+adecuada:<p/>
+<p>
+a. Si las galletas están un poco crudas, entonces la temperatura del horno debe ser media.
+b. Si las galletas están medio hechas, entonces la temperatura del horno debe ser alta.
+c. Si las galletas están doraditas, entonces la temperatura del horno debe ser baja. </p>
+<p>Tras diversas entrevistas con la abuela se han podido establecer los siguientes conjuntos difusos sobre un índice
+cromático especial (0 = galleta cruda; 10 = galleta chamuscada) y la temperatura del horno:</p>
+
+Indice | valores 
+--- | --- 
+*un poco crudas* | *(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)*
+*medio hechas* | (0/3, 1/5, 1/6, 0/8) 
+*doraditas* | (0/5, 1/7, 1/8, 0/9) 
 
 
 
