@@ -94,5 +94,6 @@ valores nítidos?</li>
 </ol>
 <p>Resultado</p>
 <img style="  display: block;margin-left: auto;margin-right: auto " src="{{ site.baseurl }}/img/fuzzy/galletas_fuzzy.png" alt="imagen fuzzy">
-
+<p>Registrando las variables de entrada, de salida, la operacion, los tipos y la regla base
+obtenemos el siguiente resultado.</p>
 <img style="  display: block;margin-left: auto;margin-right: auto " src="{{ site.baseurl }}/img/fuzzy/galletas_resuelto.png" alt="imagen fuzzy">
