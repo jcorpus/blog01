@@ -43,9 +43,23 @@ cromático especial (0 = galleta cruda; 10 = galleta chamuscada) y la temperatur
 
 Indice | valores 
 --- | --- 
-*un poco crudas* | *(0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)*
+*un poco crudas* | (0/0, 0.5/1, 1/3, 1/4, 0.5/6, 0/7)
 *medio hechas* | (0/3, 1/5, 1/6, 0/8) 
 *doraditas* | (0/5, 1/7, 1/8, 0/9) 
+
+Temperatura del horno | valores 
+--- | --- 
+*baja* | (0/150, 1/160, 1/180, 0/190) 
+*media* | (0/170, 1/190, 1/210, 0/230) 
+*alta* | (0/210, 1/220, 1/240, 0/250) 
+<p>Supóngase que se interpretan las reglas a,b,c anteriores como implicaciones de Mamdani y se construye un sistema para
+control automático de la temperatura del horno basado en reglas con encadenamiento hacia delante. Suponiendo que en
+cierto momento el índice cromático de las galletas es 6, se pide: </p>
+
+a. Trazar gráficamente la ejecución del sistema, mostrando el resultado producido por cada regla y el conjunto
+difuso resultante correspondiente a la temperatura
+b.  ¿Cuál será el valor de temperatura aplicado al horno si se utiliza la técnica del primer valor máximo para obtener
+valores nítidos?
 
 
 
