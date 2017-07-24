@@ -8,8 +8,8 @@ header-img: "img/prolog-sql/prolog-page.png"
 ---
 
 <h2 class="section-heading">Conectando Prolog con Sql Server</h2>
-<p>En este post realizaremos un ejercicio de Sistemas expertor basados en probabilidad, la probabilidad Bayesiana</p>
-<p style="text-align:justify;">Conectaremos Prolog con SQLServer en la plataforma windows. Primero empezaremos creando la base de datos en sql server, creamos la base de datos con el nombre "hospital" y con una tabla resumen </p>
+<p>En este post realizaremos un ejercicio de Sistemas expertos basados en probabilidad, la probabilidad Bayesiana</p>
+<p style="text-align:justify;">Conectaremos Prolog con SQLServer en la plataforma windows. Empezaremos creando la base de datos en sql server, con el nombre "hospital" y con una tabla llamada resumen </p>
 <h4>Creamos la tabla resumen con los siguientes campos.</h4>
 <img src="{{ site.baseurl }}/img/prolog-sql/tabla.PNG" alt="Post Sample Image">
 <br>
