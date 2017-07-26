@@ -7,7 +7,7 @@ author:     "jcorpus"
 header-img: "img/redes_neuronales/artifi-cogn.jpg"
 ---
 
-<link href="jcorpus.github.io/css/linea_tiempo.css" rel="stylesheet">
+
 <h2 class="section-heading">Procesamiento del Lenguaje Natural</h2>
 <p style="text-align:justify;">Los sistemas de computación secuencial, son exitosos en la resolución de 
 problemas matemáticos o científicos, en la creacion, manipulación y mantenimiento de bases de datos, en
