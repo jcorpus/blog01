@@ -6,7 +6,8 @@ date:       2017-07-26 13:32:00
 author:     "jcorpus"
 header-img: "img/redes_neuronales/artifi-cogn.jpg"
 ---
-<link href="jcorpus.github.io/css/linea_tiempo.css" rel="stylesheet">
+<link href="css/linea_tiempo.css" rel="stylesheet">
+
 <div class="container">
   <div class="row">
     <div class="col-lg-12">
