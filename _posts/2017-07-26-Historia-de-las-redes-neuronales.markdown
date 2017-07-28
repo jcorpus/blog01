@@ -708,7 +708,14 @@ header-img: "img/redes_neuronales/artifi-cogn.jpg"
 <div class="container-fluid">
         <div class="col-md-12">
             <div class="row">
-                <h2>Usage example</h2>
+                <h2>Historia de las redes Neuronales</h2>
+                  <p>Las redes neuronales son más que otra forma de emular ciertas características propias de los humanos, como la 
+                    capacidad de memorizar y de asociar hechos. El hombre es capaz de resolver estas situaciones acudiendo a
+                    la experiencia acumulada. Así, parece claro que una forma de aproximarse al problema consista en la construcción
+                    de sistemas que sean capaces de reproducir esta característica humana.
+                    Todos los procesos del cuerpo humano se relacionan en alguna u otra forma con la (in)actividad de estas
+                    neuronas. Las mismas son un componente relativamente simple del ser humano, pero cuando millares de ellas
+                    se conectan en forma conjunta se hacen muy poderosas. </p>
                 <div class="timeline timeline-line-dotted">
                     <span class="timeline-label">
                         <span class="label label-primary">1936</span>
