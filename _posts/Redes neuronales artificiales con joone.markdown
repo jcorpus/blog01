@@ -7,5 +7,6 @@ author:     "jcorpus"
 header-img: "img/stacer-post.png"
 ---
 
-<h2 class="section-heading">Monitor de Sistema - Stacer</h2>
+<h2 class="section-heading">Redes Neuronales Artificiales con Joone</h2>
+
 
