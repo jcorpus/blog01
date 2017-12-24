@@ -9,7 +9,7 @@ url: "jcorpus.github.io"
 twitter_username: jsuproc
 github_username:  jcorpus
 facebook_username:  jsuproc
-email_username:  your-email@yourdomain.com
+email_username:  julio@jcorpus.me
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -22,4 +22,4 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-sitemap]
