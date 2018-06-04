@@ -71,6 +71,8 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 </ul>
 </p>
 <h5 class="section-heading">Ciclo de Vida de ITIL</h5>
-<img width="100px" src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
+<p align="center">
+<img width="700px"  src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
+</p>
 <br>
 
