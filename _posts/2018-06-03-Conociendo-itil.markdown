@@ -19,7 +19,7 @@ de un modelo que les permitiera gestionar su infraestructura TI más fácilmente
 <p style="text-align:justify;">ITIL nació en la década de 1980, a través de la Agencia Central de Telecomunicaciones y Computación del Gobierno Británico (Central Computer and Telecommunications Agency - CCTA), que ideó y desarrolló una guía para que las oficinas del sector público británico fueran más eficientes en su trabajo y por tanto se redujeron los costes derivados de los recursos TI. Sin embargo esta guía demostró ser útil para cualquier organización, pudiendo adaptarse según sus circunstancias y necesidades. De hecho resultó ser tan útil que actualmente ITIL recoge la gestión de los servicios TI como uno de sus apartados, habiéndose ampliado el conjunto de “buenas prácticas” a gestión de la seguridad de la información, gestión de niveles de servicio, perspectiva de negocio, gestión de activos software y gestión de aplicaciones. 
 En la actualidad ITIL pertenece al Oficina de Comercio Británico (Office of Government Commerce - OGC), pero puede ser utilizado para su aplicación libremente.
 </p>
-<h3 class="section-heading">&nbsp;&nbsp; 1.2 Librería</h3>
+<h3>&nbsp;&nbsp; 1.2 Librería</h3>
 <p style="text-align:justify;">
 ITIL no comenzó a ser utilizada de manera común hasta aproximadamente 1990; desde esa fecha el crecimiento de la librería se situó en aproximadamente 30 publicaciones que hacían de su utilización un proceso complejo. Se hizo necesaria por tanto una revisión que agrupa los libros según conjuntos estructurados en los procesos que estuvieran más íntimamente relacionados, enmarcando la gran cantidad de publicaciones existente en ocho volúmenes, denominándose desde entonces como ITIL v2. 
 La última versión vio la luz en 2007, denominada como ITIL v3. En esta versión se ha realizado un refresco (refreshment en palabras de la OGC), agrupando los elementos principales de ITIL en 5 volúmenes, que pueden encontrarse en la actualidad con los siguientes títulos (en inglés original).
@@ -32,7 +32,7 @@ La última versión vio la luz en 2007, denominada como ITIL v3. En esta versió
 <li>ITIL v3 Continual Service Improvement(CST) </li>
 <li>ITIL v3 Service Transition (ST)</li>
 </ol>
-<h3 class="section-heading">&nbsp;&nbsp; 1.3 Características de ITIL</h3>
+<h3>&nbsp;&nbsp; 1.3 Características de ITIL</h3>
 <p style="text-align:justify;">La causa de que ITIL se haya convertido desde 1990 en un modelo de referencia y haya experimentado una expansión tan grande con respecto a otros modelos como CMM/CMMI y posteriormente COBIT se fundamenta en dos motivos:</p>
 <ul>
 <li>En las características esenciales de esta librería.</li>
