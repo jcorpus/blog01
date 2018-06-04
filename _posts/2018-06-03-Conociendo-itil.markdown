@@ -40,13 +40,37 @@ La última versión vio la luz en 2007, denominada como ITIL v3. En esta versió
 </ul>
 <p>Las características se pueden resumir en las siguientes<p/>
 
-<h3>&nbsp;1. NO DESARROLLADA CON DERECHOS DE PROPIEDAD </h3>
-<p>Se trata de un modelo de aplicación basado en mejores prácticas independientemente de proveedores asociados a su aplicación. - Las mejores prácticas están basadas en procesos puestos en marcha y recopilados en estos volúmenes, no tienen derechos de uso por prácticas personales o empresariales únicas.</p>
-<h3>&nbsp;3. COMPENDIO DE MEJORES PRÁCTICAS</h3>
-<p>Se puede aplicar y obtener beneficios adaptando el modelo a las características de cada necesidad, creciendo constantemente porque se retroalimenta de nuevas mejores prácticas. - Estas mejores prácticas son el resultado de los resultados obtenidos por el trabajo diario de expertos y profesionales del mundo de las TI desde hace casi tres décadas. </p>
-<h3>&nbsp;4. ESTÁNDAR INTERNACIONAL </h3>
-<p>Trata de establecer, al igual que se realizó en otras ciencias, una estandarización en los conceptos, lenguaje, estructura y formas de trabajo de las organizaciones en todo el mundo con respecto a las TI. - Está desarrollado y responde a la estructura común del lenguaje y su terminología, así como los documentos que se utilizan actualmente en el mundo empresarial (servicios, procesos, estrategia, objetivos, responsabilidades, recursos, etc.).</p>
-<h2 class="section-heading">Ciclo de Vida de ITIL</h2>
-<img src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
+<h5>&nbsp;1. NO DESARROLLADA CON DERECHOS DE PROPIEDAD </h5>
+<p>
+<ul>
+<li>Se trata de un modelo de aplicación basado en mejores prácticas independientemente de proveedores asociados a su aplicación. </li>
+<li>Las mejores prácticas están basadas en procesos puestos en marcha y recopilados en estos volúmenes, no tienen derechos de uso por prácticas personales o empresariales únicas.
+</li>
+</ul>
+</p>
+<h5>&nbsp;2. DE DOMINIO PÚBLICO</h5>
+<p>
+<ul>
+<li>Transición de conocimiento libre.</li>
+<li>Es de libre utilización. Cualquiera, independientemente de las características de la entidad puede
+ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
+</ul>
+</p>
+<h5>&nbsp;3. COMPENDIO DE MEJORES PRÁCTICAS</h5>
+<p>
+<ul>
+  <li>Se puede aplicar y obtener beneficios adaptando el modelo a las características de cada necesidad, creciendo constantemente porque se retroalimenta de nuevas mejores prácticas. </li>
+  <li>Estas mejores prácticas son el resultado de los resultados obtenidos por el trabajo diario de expertos y profesionales del mundo de las TI desde hace casi tres décadas.</li>
+</ul>
+</p>
+<h5>&nbsp;4. ESTÁNDAR INTERNACIONAL </h5>
+<p>
+<ul>
+  <li>Trata de establecer, al igual que se realizó en otras ciencias, una estandarización en los conceptos, lenguaje, estructura y formas de trabajo de las organizaciones en todo el mundo con respecto a las TI.</li>
+  <li>Está desarrollado y responde a la estructura común del lenguaje y su terminología, así como los documentos que se utilizan actualmente en el mundo empresarial (servicios, procesos, estrategia, objetivos, responsabilidades, recursos, etc.).</li>
+</ul>
+</p>
+<h5 class="section-heading">Ciclo de Vida de ITIL</h5>
+<img width="100px" src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
 <br>
 
