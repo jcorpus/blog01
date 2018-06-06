@@ -4,7 +4,7 @@ title:      "Conociendo ITIL"
 subtitle:   "ITIL v3."
 date:       2018-06-02 10:16:00
 author:     "jcorpus"
-header-img: "img/prolog-sql/prolog-page.png"
+header-img: "img/itil/ITIL%20-%20procesos.jpg"
 ---
 
 <h3 class="section-heading">1. Fundamentos de ITIL</h3>
