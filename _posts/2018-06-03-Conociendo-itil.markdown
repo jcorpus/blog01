@@ -75,4 +75,12 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 <img width="400px"  src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
 </p>
 <br>
-
+<p>
+<ul>
+  <li><strong>Estrategia del servicio:</strong> Propone tratar la gestión del servicio como un activo que genera valor para la organización</li>
+  <li><strong>Diseño del servicio:</strong> Propone desarrollar servicios a los requisitos de la organización y/o modificar o mejorar los servicios existentes y prevenir ante desastres</li>
+  <li><strong>Transición del servicio:</strong> Propone una base de datos para gestionar los servicios, asegurar la operación del servicio, realizar un plan de pruebas para la puesta en funcionamiento de los nuevos servicios o modificaciones de los ya existentes y planes de rollback.</li>
+  <li><strong>Operación del Servicio:</strong> Propone monitoreo permanente de los servicios y propone una base de datos de conocimiento donde se debe registrar incidentes, problemas y peticiones de los accesos a los servicios.</li>
+<li><strong>Y mejora continua del servicio:</strong> Propone una revisión total de todos los componentes del ciclo de vida de un servicio, incluyendo los procesos de la Organización con el fin de actualizar o retirar servicios que no estén dando valor agregado a los clientes.</li>
+</ul>
+</p>
