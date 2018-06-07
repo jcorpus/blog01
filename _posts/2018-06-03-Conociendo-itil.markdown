@@ -82,15 +82,12 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 <p style="text-align:justify">El modelo de aplicación de mejores prácticas ITIL tiene, como cualquier otro modelo o norma internacional de gestión, un comité rector que actualiza, verifica, mejora la librería, evalúa nuevas mejores prácticas y además certifica qué personas pueden asesorar a las organizaciones en cuestiones de ITIL.
 Las certificaciones han variado en las distintas versiones de ITIL, siendo en la actualidad cuatro las que pueden
 obtenerse, según el nivel de profundización en la materia:</p>
-
-1. ITIL Fundation Level.
-
-2. TTIL Intermediate Level - Service Lifecycle & Service Compability Streams.
-
-3. ITIL Expert Level.
-
-4. ITIL Master.
-
+<ol>
+  <li>ITIL Fundation Level.</li>
+  <li>TTIL Intermediate Level - Service Lifecycle & Service Compability Streams.</li>
+  <li>ITIL Expert Level.</li>
+  <li>ITIL Master.</li>
+ </ol>
 <ol>
   <li>Foundation Level – Nivel Fundamentos: este nivel trata de introducir al alumno en el conocimiento y
 comprensión para ofrecer una buena base en conceptos clave, terminología y procesos de ITIL.</li>
