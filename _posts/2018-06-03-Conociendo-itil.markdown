@@ -83,11 +83,10 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 Las certificaciones han variado en las distintas versiones de ITIL, siendo en la actualidad cuatro las que pueden
 obtenerse, según el nivel de profundización en la materia:</p>
 
-> 1. ITIL Fundation Level
-> 2. TTIL Intermediate Level - Service Lifecycle & Service Compability Streams
-> 3. ITIL Expert Level
-> 4. ITIL Master.
-
+1. ITIL Fundation Level
+2. TTIL Intermediate Level - Service Lifecycle & Service Compability Streams
+3. ITIL Expert Level
+4. ITIL Master.
 
 <ol>
   <li>Foundation Level – Nivel Fundamentos: este nivel trata de introducir al alumno en el conocimiento y
