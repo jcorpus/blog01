@@ -79,7 +79,7 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 </ul>
 </p>
 <h5>Las certificaciones ITIL v3</h5>
-<p style="text-align:center">El modelo de aplicación de mejores prácticas ITIL tiene, como cualquier otro modelo o norma internacional de gestión, un comité rector que actualiza, verifica, mejora la librería, evalúa nuevas mejores prácticas y además certifica qué personas pueden asesorar a las organizaciones en cuestiones de ITIL.
+<p style="text-align:justify">El modelo de aplicación de mejores prácticas ITIL tiene, como cualquier otro modelo o norma internacional de gestión, un comité rector que actualiza, verifica, mejora la librería, evalúa nuevas mejores prácticas y además certifica qué personas pueden asesorar a las organizaciones en cuestiones de ITIL.
 Las certificaciones han variado en las distintas versiones de ITIL, siendo en la actualidad cuatro las que pueden
 obtenerse, según el nivel de profundización en la materia:</p>
 
@@ -103,4 +103,4 @@ Intermedio, se pasa a tener la certificación en Experto ITIL, sin necesidad de 
   <li>ITIL Master – Nivel Avanzado: nivel más alto al que se puede aspirar en la actualidad. Se espera que en este
 nivel estén los consultores ITIL.</li>
 </ol>
-<p style="text-align:center;">Para acceder a estos niveles es necesario realizar exámenes en Institutos Oficiales Acreditados por APM Group a través del ITIL Qualifications Board. En la actualidad se ha establecido un sistema de créditos por el que se puede navegar por la siguiente figura para obtener la cantidad de créditos necesarios que se piden para disponer de la certificación en los niveles anteriormente descritos, además de poder optar a los nuevos certificados v3 a través de cursos puente desde v2, o asimilación de créditos por certificaciones superiores a la Foundation v2.</p>
+<p style="text-align:justify;">Para acceder a estos niveles es necesario realizar exámenes en Institutos Oficiales Acreditados por APM Group a través del ITIL Qualifications Board. En la actualidad se ha establecido un sistema de créditos por el que se puede navegar por la siguiente figura para obtener la cantidad de créditos necesarios que se piden para disponer de la certificación en los niveles anteriormente descritos, además de poder optar a los nuevos certificados v3 a través de cursos puente desde v2, o asimilación de créditos por certificaciones superiores a la Foundation v2.</p>
