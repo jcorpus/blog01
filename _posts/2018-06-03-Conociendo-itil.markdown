@@ -68,7 +68,7 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 <p align="center">
 <img width="400px"  src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
 </p>
-<small text-align:center;>Flujo de funcionamiento de ITIL</small>
+<small style="text-align:center;">Flujo de funcionamiento de ITIL</small>
 <br>
 <p>
 <ul>
@@ -120,7 +120,7 @@ COBIT(Control Objectives for Information and related Technology, Objetivos de co
 <p align="center">
 <img width="400px"  src="{{ site.baseurl }}/img/itil/principios-de-cobit.PNG" alt="Post Sample Image">
 </p>
-<small text-align:center;>Principios de COBIT 5 . © 2012 ISACA</small>
+<small style="text-align:center;">Principios de COBIT 5 . © 2012 ISACA</small>
 
 
 
