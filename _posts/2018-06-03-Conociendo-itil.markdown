@@ -68,6 +68,7 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 <p align="center">
 <img width="400px"  src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
 </p>
+<small text-align:center;>Flujo de funcionamiento de ITIL</small>
 <br>
 <p>
 <ul>
@@ -104,3 +105,22 @@ Intermedio, se pasa a tener la certificación en Experto ITIL, sin necesidad de 
 nivel estén los consultores ITIL.</li>
 </ol>
 <p style="text-align:justify;">Para acceder a estos niveles es necesario realizar exámenes en Institutos Oficiales Acreditados por APM Group a través del ITIL Qualifications Board. En la actualidad se ha establecido un sistema de créditos por el que se puede navegar por la siguiente figura para obtener la cantidad de créditos necesarios que se piden para disponer de la certificación en los niveles anteriormente descritos, además de poder optar a los nuevos certificados v3 a través de cursos puente desde v2, o asimilación de créditos por certificaciones superiores a la Foundation v2.</p>
+
+<h3 class="section-heading">2. COBIT 5 y sus Principios</h3>
+<p>COBIT 5 es un marco de trabajo y no una metodología. Permite comprender el gobierno y la gestión de las tecnologías de información (TI) de una organización, así como evaluar el estado en que se encuentran las TI en la empresa. </p>
+COBIT(Control Objectives for Information and related Technology, Objetivos de control para la información y tecnologías relacionadas).
+<h6>El marco de trabajo de COBIT5</h6>
+<p style="text-align:justify;">Dicho en pocas palabras, COBIT 5 ayuda a las Organizaciones a crear un valor óptimo a partir de la TI, al mantener un equilibrio entre la realización de beneficios y la optimización de los niveles de riesgo y utilización de los recursos.
+</p>
+<p style="text-align:justify;">COBIT 5 permite que las tecnologías de la información y relacionadas se gobiernen y administren de una manera holística a nivel de toda la Organización, incluyendo el alcance completo de todas las áreas de responsabilidad funcionales y de negocios, considerando los intereses relacionados con la TI de las partes interesadas internas y externas.
+</p>
+<p style="text-align:justify;">Los principios y habilitadores de COBIT 5 son genéricos y útiles para las Organizaciones de cualquier tamaño, bien sean comerciales, sin fines de lucro o en el sector público.
+</p>
+<p>Los principios de COBIT 5</p>
+<p align="center">
+<img width="400px"  src="{{ site.baseurl }}/img/itil/principios-de-cobit.PNG" alt="Post Sample Image">
+</p>
+<small text-align:center;>Principios de COBIT 5 . © 2012 ISACA</small>
+
+
+
