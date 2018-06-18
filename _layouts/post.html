@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Publicado por {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }} {% if page.comments %} • <a href="https://jcorpus.github.io{{ page.url }}#disqus_thread">0 Comentarios</a>{% endif %}</span>
+                    <span class="meta fecha-publicacion">Publicado por {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }} {% if page.comments %} • <a href="https://jcorpus.github.io{{ page.url }}#disqus_thread">0 Comentarios</a>{% endif %}</span>
                 </div>
             </div>
         </div>
