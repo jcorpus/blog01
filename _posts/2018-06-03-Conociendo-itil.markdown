@@ -127,15 +127,15 @@ COBIT(Control Objectives for Information and related Technology, Objetivos de co
 Este marco de trabajo cuenta con cinco principios que una organización debe seguir para adoptar la gestión de TI:
 </p>
 <p style="text-align: justify;">	
-<h5>Satisfacción de las necesidades de los accionistas:</h5>
+<b>Satisfacción de las necesidades de los accionistas:</b>
 se alinean las necesidades de los accionistas con los objetivos empresariales específicos, objetivos de TI y objetivos habilitadores. Se optimiza el uso de recursos cuando se obtienen beneficios con un nivel aceptable de riesgo.
 </p>
 <p style="text-align: justify;">	
-<h5>Considerar la empresa de punta a punta:</h5>
+<b>Considerar la empresa de punta a punta:</b>
 el gobierno de TI y la gestión de TI son asumidos desde una perspectiva global, de tal modo que se cubren todas las necesidades corporativas de TI. Esto se aplica desde una perspectiva "de punta a punta" basada en los 7 habilitadores de COBIT.
 </p>
 <p style="text-align: justify;">	
-<h5>Aplicar un único marco integrado:</h5>
+<b>Aplicar un único marco integrado:</b>
 COBIT 5 está alineado con los últimos marcos y normas relevantes usados por las organizaciones:
 <ol>
 	<li>Corporativo:  COSO, COSO ERM, ISO/IEC 9000, ISO/IEC 31000</li>
@@ -144,14 +144,13 @@ COBIT 5 está alineado con los últimos marcos y normas relevantes usados por la
 Así se permite a la Organización utilizar COBIT 5 como integrador macro en el marco de gobierno y administración.
 </p>
 <p style="text-align: justify;">	
-<h5>Habilitar un enfoque holístico:</h5>
+<b>Habilitar un enfoque holístico:</b>
 los habilitadores de COBIT 5 están identificados en siete categorías que abarcan la empresa de punta a punta. Individual y colectivamente, estos factores influyen para que el gobierno de TI y la gestión de TI operen en función de las necesidades del negocio.
 </p>
 <p style="text-align: justify;">	
-<h5>Separar el gobierno de la gestión:</h5>
+<b>Separar el gobierno de la gestión:</b>
 COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de TI. Se entiende por gobierno de TI las funciones relacionadas con la evaluación, la dirección y el monitoreo de las TI. El gobierno busca asegurar el logro de los objetivos empresariales y también evalúa las necesidades de los accionistas, así como las condiciones y las opciones existentes. La dirección se concreta mediante la priorización y la toma efectiva de decisiones. Y el monitoreo abarca el desempeño, el cumplimiento y el progreso en función con los objetivos acordados.  La gestión está más relacionada con la planificación, la construcción, la ejecución y el monitoreo de las actividades alineadas con la dirección establecida por el organismo de gobierno para el logro de los objetivos empresariales.
 </p>
-
 
 
 
