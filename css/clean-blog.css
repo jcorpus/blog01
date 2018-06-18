@@ -406,3 +406,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.post-heading > .fecha-publicacion{
+  background:#08B09F;
+  display:table;
+}
+
