@@ -185,6 +185,7 @@ hr.small {
   font-size: 35px;
   background:#08B09F;
   display:table;
+  padding:0px 4px 0px 4px;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -198,6 +199,7 @@ hr.small {
   font-weight: 600;
   background:#08B09F;
   display:table;
+  padding:0px 4px 0px 4px;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -409,5 +411,6 @@ body {
 .post-heading > .fecha-publicacion{
   background:#08B09F;
   display:table;
+  padding:0px 4px 0px 4px;
 }
 
