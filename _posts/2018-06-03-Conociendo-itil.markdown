@@ -161,6 +161,6 @@ COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de 
 	</ul>
 </p>
 <p align="center">
-<img width="400px"  src="{{ site.baseurl }}/img/itil/cobit5-procesos-habilitadores.PNG" alt="Post Sample Image">
+<img width="80%"  src="{{ site.baseurl }}/img/itil/cobit5-procesos-habilitadores.PNG" alt="Post Sample Image">
 <small style="text-align:center;">Figura 03 - Procesos Habilitadores COBIT 5</small>
 </p>
