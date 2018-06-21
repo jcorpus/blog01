@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Conociendo ITIL"
-subtitle:   "ITIL v3."
+title:      "Conociendo ITIL y COBIT 5"
+subtitle:   "ITIL v3 y COBIT 5."
 date:       2018-06-02 10:16:00
 author:     "jcorpus"
 header-img: "img/itil/ITIL%20-%20procesos..jpg"
@@ -68,7 +68,7 @@ ponerlo en práctica, incluso únicamente las partes que le apliquen.</li>
 <p align="center">
 <img width="400px"  src="{{ site.baseurl }}/img/itil/flujo%20de%20funcionamiento%20itil.png" alt="Post Sample Image">
 
-<small style="text-align:center;">Flujo de funcionamiento de ITIL</small>
+<small style="text-align:center;">Figura 01 - Flujo de funcionamiento de ITIL</small>
 </p>
 <br>
 <p>
@@ -120,7 +120,7 @@ COBIT(Control Objectives for Information and related Technology, Objetivos de co
 <p>Los principios de COBIT 5</p>
 <p align="center">
 <img width="400px"  src="{{ site.baseurl }}/img/itil/principios-de-cobit.PNG" alt="Post Sample Image">
-<small style="text-align:center;">Principios de COBIT 5 . © 2012 ISACA</small>
+<small style="text-align:center;">Figura 02 - Principios de COBIT 5 . © 2012 ISACA</small>
 </p>
 <p style="text-align: justify;">
 	Mediante COBIT 5 se puede desarrollar una política clara que permite el control de las TI en la organización. La aplicación de este marco incide especialmente en el cumplimiento regulatorio y ayuda a incrementar el valor asociado al área de TI de la organización. Desde su inicio, COBIT 5 ha evolucionado desde su uso para la auditoría de TI, para luego pasar por el control, la gestión de TI, el gobierno de TI, llegando a su versión actual que es un enfoque holístico de gobierno corporativo de TI.
@@ -152,5 +152,15 @@ los habilitadores de COBIT 5 están identificados en siete categorías que abarc
 COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de TI. Se entiende por gobierno de TI las funciones relacionadas con la evaluación, la dirección y el monitoreo de las TI. El gobierno busca asegurar el logro de los objetivos empresariales y también evalúa las necesidades de los accionistas, así como las condiciones y las opciones existentes. La dirección se concreta mediante la priorización y la toma efectiva de decisiones. Y el monitoreo abarca el desempeño, el cumplimiento y el progreso en función con los objetivos acordados.  La gestión está más relacionada con la planificación, la construcción, la ejecución y el monitoreo de las actividades alineadas con la dirección establecida por el organismo de gobierno para el logro de los objetivos empresariales.
 </p>
 
-
-
+<h4>Procesos Habilitadores de COBIT 5</h4>
+<p style="text-align: justify;">
+	El Modelo de Referencia de Procesos de COBIT 5 subdivide las actividades y prácticas de la Organización relacionadas con la TI en dos áreas principales – Gobierno y Administración – con la Administración a su vez dividida en dominios de procesos:
+	<ul>
+		<li>El Dominio de GOBIERNO contiene cinco procesos de gobierno; dentro de cada proceso se definen las prácticas para Evaluar, Dirigir y Monitorear (EDM).</li>
+		<li>Los cuatro dominios de la ADMINISTRACIÓN están alineados con las áreas de responsabilidad de Planificar, Construir, Operar y Monitorear (PBRM por su sigla en inglés).</li>
+	</ul>
+</p>
+<p align="center">
+<img width="400px"  src="{{ site.baseurl }}/img/itil/cobit5-procesos-habilitadores.PNG" alt="Post Sample Image">
+<small style="text-align:center;">Figura 03 - Procesos Habilitadores COBIT 5</small>
+</p>
