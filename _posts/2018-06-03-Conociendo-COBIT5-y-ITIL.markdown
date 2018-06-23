@@ -164,3 +164,20 @@ COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de 
 <img width="80%"  src="{{ site.baseurl }}/img/itil/cobit5-procesos-habilitadores.PNG" alt="Post Sample Image">
 <small style="text-align:center;">Figura 03 - Procesos Habilitadores COBIT 5</small>
 </p>
+<h4>COBIT 5 VS ITIL</h4>
+
+COBIT5 | ITIL 
+--- | --- 
+<p>
+	<ul>
+		<li>COBIT se preocupa principalmente en orientar a las organizaciones en la implementación, operación y mejora de los procesos de gobernanza y gestión de TI.</li>
+		<li>COBIT describe los principios que soportan a una organización orientada a las necesidades corporativas. Principalmente aquellas relacionadas al uso de los activos y recursos de TI por la organización.</li>
+	</ul>	  
+</p> | <p>
+	<ul>
+		<li>ITIL ofrece orientaciones de buenas prácticas para gestión y ejecución de servicios de TI, bajo la perspectiva de la generación de valor para el negocio.</li>
+		<li>ITIL describe con más detalles las partes de TI que están relacionadas a la gestión de los servicios (actividades de los procesos, estructuras organizacionales, etc.).</li>
+	</ul>	  
+</p>
+
+
