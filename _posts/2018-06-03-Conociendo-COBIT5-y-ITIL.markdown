@@ -177,11 +177,7 @@ COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de 
   </tr>
   <tr>
    <td>ITIL ofrece orientaciones de buenas prácticas para gestión y ejecución de servicios de TI, bajo la perspectiva de la generación de valor para el negocio.</td>
-   <td>(0/3, 1/5, 1/6, 0/8) </td> 
-  </tr>
-  <tr>
-    <td>medio hechas</td>
-    <td>ITIL describe con más detalles las partes de TI que están relacionadas a la gestión de los servicios (actividades de los procesos, estructuras organizacionales, etc.).</td>
+   <td>ITIL describe con más detalles las partes de TI que están relacionadas a la gestión de los servicios (actividades de los procesos, estructuras organizacionales, etc.).</td> 
   </tr>
 </table>
 
