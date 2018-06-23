@@ -166,18 +166,22 @@ COBIT 5 distingue con claridad los ámbitos del gobierno de TI y la gestión de 
 </p>
 <h4>COBIT 5 VS ITIL</h4>
 
-COBIT5 | ITIL 
---- | --- 
-<p>
-	<ul>
-		<li>COBIT se preocupa principalmente en orientar a las organizaciones en la implementación, operación y mejora de los procesos de gobernanza y gestión de TI.</li>
-		<li>COBIT describe los principios que soportan a una organización orientada a las necesidades corporativas. Principalmente aquellas relacionadas al uso de los activos y recursos de TI por la organización.</li>
-	</ul>	  
-</p> | <p>
-	<ul>
-		<li>ITIL ofrece orientaciones de buenas prácticas para gestión y ejecución de servicios de TI, bajo la perspectiva de la generación de valor para el negocio.</li>
-		<li>ITIL describe con más detalles las partes de TI que están relacionadas a la gestión de los servicios (actividades de los procesos, estructuras organizacionales, etc.).</li>
-	</ul>	  
-</p>
-
+<table style="width:100%">
+  <tr>
+    <th>COBIT5</th>
+    <th>ITIL</th>
+  </tr>
+  <tr>
+    <td>COBIT se preocupa principalmente en orientar a las organizaciones en la implementación, operación y mejora de los procesos de gobernanza y gestión de TI.</td>
+    <td>COBIT describe los principios que soportan a una organización orientada a las necesidades corporativas. Principalmente aquellas relacionadas al uso de los activos y recursos de TI por la organización. </td> 
+  </tr>
+  <tr>
+   <td>ITIL ofrece orientaciones de buenas prácticas para gestión y ejecución de servicios de TI, bajo la perspectiva de la generación de valor para el negocio.</td>
+   <td>(0/3, 1/5, 1/6, 0/8) </td> 
+  </tr>
+  <tr>
+    <td>medio hechas</td>
+    <td>ITIL describe con más detalles las partes de TI que están relacionadas a la gestión de los servicios (actividades de los procesos, estructuras organizacionales, etc.).</td>
+  </tr>
+</table>
 
